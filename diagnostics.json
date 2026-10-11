@@ -1,0 +1,90 @@
+{
+  "input_file": "/mnt/data/chandamama_phase2_layout.json",
+  "entities_total": 9710,
+  "selected_boundary_colors": [
+    8,
+    10,
+    170
+  ],
+  "selected_color_entity_counts": {
+    "8": 724,
+    "170": 9,
+    "10": 43
+  },
+  "source_segments_after_filters": 190,
+  "split_pieces_before_union": 397,
+  "snapped_or_repaired_endpoints": 276,
+  "join_tolerance_drawing_units": 0.25,
+  "precision_grid_drawing_units": 0.05,
+  "raw_marker_polylines": 298,
+  "unique_marker_centers": 155,
+  "polygonized_valid_faces": 158,
+  "face_marker_histogram": {
+    "0": 3,
+    "1": 155
+  },
+  "plot_candidate_faces_one_marker": 155,
+  "candidate_areas_drawing_units2": {
+    "min": 30.318,
+    "median": 42.238,
+    "max": 94.736,
+    "outside_diagnostic_range": 0
+  },
+  "unmatched_or_non_plot_faces": [
+    {
+      "area": 2440.824,
+      "marker_count": 0,
+      "bounds": [
+        118.6,
+        44.9,
+        194.2,
+        94.0
+      ],
+      "vertices": 13
+    },
+    {
+      "area": 417.005,
+      "marker_count": 0,
+      "bounds": [
+        196.2,
+        47.15,
+        207.05,
+        92.4
+      ],
+      "vertices": 5
+    },
+    {
+      "area": 1027.96,
+      "marker_count": 0,
+      "bounds": [
+        143.4,
+        66.45,
+        179.25,
+        99.05
+      ],
+      "vertices": 13
+    }
+  ],
+  "skipped_segment_reasons": {
+    "short_segments": 4768,
+    "small_diagonal_marker_or_text_strokes": 298
+  },
+  "warning": "155 one-marker faces validate against the 155 deduplicated marker centers, not official plot numbering or legal dimensions. Inspect preview and confirm against approved PDF/DXF.",
+  "plot_number_label_correction": {
+    "candidates": 155,
+    "assigned_unique_official_plot_numbers": 153,
+    "unassigned_due_to_label_conflict": [
+      "P108",
+      "P120"
+    ],
+    "source_label_transcriptions_preserved": {
+      "P108": "31",
+      "P120": "30"
+    },
+    "canonical_pdf_text_matched_labels": {
+      "P151": "31",
+      "P152": "30"
+    },
+    "note": "Candidate geometry count is unchanged. The two visually transcribed conflicting IDs are left blank in the assigned official-number field; confirm against the approved plan."
+  }
+}

@@ -1,0 +1,16 @@
+Reusable prompt for a new DXF layout
+====================================
+
+I want to process the attached DXF into an interactive plot inventory map. Use the attached DXF as the primary source and the attached approved PDF/site-plan image (if provided) for verification.
+
+Please:
+1. Inspect the drawing before choosing layers/colors/tolerances. Do not assume it uses the Chandamama DXF layers, colors, units, or geometry.
+2. Report file/entity types, layers, colors, units if known, text and block structure, and likely plot-boundary sources.
+3. Detect candidate plot polygons while handling fragmented lines, intersections, arcs/curves, blocks, and small gaps as appropriate for this drawing.
+4. Associate plot numbers from CAD text/blocks or the approved plan only when evidence supports the match. Do not invent plot IDs. Flag missing, duplicate, ambiguous, and low-confidence labels.
+5. Generate a visual overlay on the source plan, a candidate polygon CSV and GeoJSON, plus diagnostics. Include enough plot IDs on the overlay to review each candidate.
+6. Check for geometry errors, overlaps, open boundary gaps, plots merged with roads, missing candidates, and duplicates. Explain what is verified and what is not.
+7. Generate an interactive HTML map for this layout with available/booked/sold status and buyer/payment fields, but do not mark any plot as sold/booked unless the input provides that data.
+8. Keep this project separate from other layouts. Provide downloadable outputs and clear instructions for use. Do not claim perfect accuracy; require review of uncertain boundaries before operational use.
+
+If a key fact such as drawing units or how plots are distinguished cannot be established, ask me one concise question or present a review step rather than guessing.

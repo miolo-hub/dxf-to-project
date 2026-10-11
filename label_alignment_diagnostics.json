@@ -1,0 +1,24 @@
+{
+  "polygon_candidates": 155,
+  "pdf_text_matched_labels": 106,
+  "visually_transcribed_labels": 49,
+  "assigned_unique_plot_numbers": 153,
+  "unassigned_label_conflicts": [
+    {
+      "candidate_id": "P108",
+      "source_label_transcription": "31",
+      "reason": "Visual transcription conflicts with a PDF-text-matched 31 at P151."
+    },
+    {
+      "candidate_id": "P120",
+      "source_label_transcription": "30",
+      "reason": "Visual transcription conflicts with a PDF-text-matched 30 at P152."
+    }
+  ],
+  "canonical_labels_retained": {
+    "P151": "31",
+    "P152": "30"
+  },
+  "policy": "No replacement plot numbers invented. Conflicting visual readings are kept in source_label_transcription and left blank in plot_number pending human confirmation.",
+  "boundary_warning": "Label conflict correction does not itself certify polygon boundaries. Review boundaries against the approved plan."
+}

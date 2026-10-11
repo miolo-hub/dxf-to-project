@@ -1,0 +1,7795 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P001",
+        "plot_number": "15",
+        "area_drawing_units2": 94.736,
+        "marker_x": 77.11,
+        "marker_y": 177.877,
+        "width": 14.8,
+        "height": 8.15,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "15",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.45,
+              179.15
+            ],
+            [
+              87.45,
+              174.25
+            ],
+            [
+              73.1,
+              174.25
+            ],
+            [
+              72.65,
+              182.4
+            ],
+            [
+              87.45,
+              179.15
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P002",
+        "plot_number": "16",
+        "area_drawing_units2": 81.36,
+        "marker_x": 97.642,
+        "marker_y": 173.178,
+        "width": 10.15,
+        "height": 9.15,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "16",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              102.6,
+              175.85
+            ],
+            [
+              102.55,
+              168.9
+            ],
+            [
+              92.45,
+              168.9
+            ],
+            [
+              92.5,
+              178.05
+            ],
+            [
+              102.6,
+              175.85
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P003",
+        "plot_number": "41",
+        "area_drawing_units2": 59.18,
+        "marker_x": 106.744,
+        "marker_y": 171.909,
+        "width": 10.2,
+        "height": 6.95,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "41",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.75,
+              173.6
+            ],
+            [
+              112.7,
+              168.9
+            ],
+            [
+              102.55,
+              168.9
+            ],
+            [
+              102.6,
+              175.85
+            ],
+            [
+              112.75,
+              173.6
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P004",
+        "plot_number": "14",
+        "area_drawing_units2": 75.836,
+        "marker_x": 76.221,
+        "marker_y": 171.57,
+        "width": 14.35,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "14",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.45,
+              174.25
+            ],
+            [
+              87.4,
+              168.9
+            ],
+            [
+              73.4,
+              168.9
+            ],
+            [
+              73.1,
+              174.25
+            ],
+            [
+              87.45,
+              174.25
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P005",
+        "plot_number": "42",
+        "area_drawing_units2": 62.551,
+        "marker_x": 122.111,
+        "marker_y": 167.802,
+        "width": 7.65,
+        "height": 9.05,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "42",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              117.7,
+              163.45
+            ],
+            [
+              117.75,
+              172.5
+            ],
+            [
+              125.35,
+              170.85
+            ],
+            [
+              125.3,
+              163.45
+            ],
+            [
+              117.7,
+              163.45
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P006",
+        "plot_number": "65",
+        "area_drawing_units2": 54.75,
+        "marker_x": 129.476,
+        "marker_y": 167.04,
+        "width": 8.45,
+        "height": 7.4,
+        "vertices": 5,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "65",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125.3,
+              163.45
+            ],
+            [
+              125.35,
+              170.85
+            ],
+            [
+              131.55,
+              169.5
+            ],
+            [
+              133.75,
+              169.1
+            ],
+            [
+              133.75,
+              163.45
+            ],
+            [
+              125.3,
+              163.45
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P007",
+        "plot_number": "13",
+        "area_drawing_units2": 75.081,
+        "marker_x": 77.575,
+        "marker_y": 166.321,
+        "width": 14.0,
+        "height": 5.45,
+        "vertices": 5,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "13",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.4,
+              168.9
+            ],
+            [
+              87.35,
+              163.45
+            ],
+            [
+              73.85,
+              163.45
+            ],
+            [
+              73.5,
+              167.05
+            ],
+            [
+              73.4,
+              168.9
+            ],
+            [
+              87.4,
+              168.9
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P008",
+        "plot_number": "17",
+        "area_drawing_units2": 55.045,
+        "marker_x": 98.785,
+        "marker_y": 166.151,
+        "width": 10.15,
+        "height": 5.45,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "17",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              102.55,
+              168.9
+            ],
+            [
+              102.5,
+              163.45
+            ],
+            [
+              92.4,
+              163.45
+            ],
+            [
+              92.45,
+              168.9
+            ],
+            [
+              102.55,
+              168.9
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P009",
+        "plot_number": "40",
+        "area_drawing_units2": 55.318,
+        "marker_x": 106.066,
+        "marker_y": 166.151,
+        "width": 10.2,
+        "height": 5.45,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "40",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.7,
+              168.9
+            ],
+            [
+              112.65,
+              163.45
+            ],
+            [
+              102.5,
+              163.45
+            ],
+            [
+              102.55,
+              168.9
+            ],
+            [
+              112.7,
+              168.9
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P010",
+        "plot_number": "66",
+        "area_drawing_units2": 30.318,
+        "marker_x": 142.219,
+        "marker_y": 165.516,
+        "width": 7.6,
+        "height": 4.7,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "66",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.8,
+              163.45
+            ],
+            [
+              138.8,
+              168.15
+            ],
+            [
+              146.4,
+              166.75
+            ],
+            [
+              146.35,
+              163.45
+            ],
+            [
+              138.8,
+              163.45
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P011",
+        "plot_number": "88",
+        "area_drawing_units2": 60.138,
+        "marker_x": 149.458,
+        "marker_y": 161.622,
+        "width": 7.65,
+        "height": 8.65,
+        "vertices": 5,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "88",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              146.35,
+              163.45
+            ],
+            [
+              146.4,
+              166.75
+            ],
+            [
+              153.95,
+              165.3
+            ],
+            [
+              153.9,
+              158.1
+            ],
+            [
+              146.3,
+              158.1
+            ],
+            [
+              146.35,
+              163.45
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P012",
+        "plot_number": "12",
+        "area_drawing_units2": 70.754,
+        "marker_x": 77.575,
+        "marker_y": 160.986,
+        "width": 13.5,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "12",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.35,
+              163.45
+            ],
+            [
+              87.35,
+              158.1
+            ],
+            [
+              74.4,
+              158.1
+            ],
+            [
+              73.85,
+              163.45
+            ],
+            [
+              87.35,
+              163.45
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P013",
+        "plot_number": "89",
+        "area_drawing_units2": 42.215,
+        "marker_x": 163.216,
+        "marker_y": 160.902,
+        "width": 7.65,
+        "height": 6.25,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "89",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              159.0,
+              158.1
+            ],
+            [
+              159.05,
+              164.35
+            ],
+            [
+              166.65,
+              162.95
+            ],
+            [
+              166.6,
+              158.1
+            ],
+            [
+              159.0,
+              158.1
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P014",
+        "plot_number": "67",
+        "area_drawing_units2": 40.392,
+        "marker_x": 142.558,
+        "marker_y": 160.86,
+        "width": 7.6,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "67",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.75,
+              158.1
+            ],
+            [
+              138.8,
+              163.45
+            ],
+            [
+              146.35,
+              163.45
+            ],
+            [
+              146.3,
+              158.1
+            ],
+            [
+              138.75,
+              158.1
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P015",
+        "plot_number": "18",
+        "area_drawing_units2": 54.035,
+        "marker_x": 98.742,
+        "marker_y": 160.774,
+        "width": 10.1,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "18",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              102.5,
+              163.45
+            ],
+            [
+              102.5,
+              158.1
+            ],
+            [
+              92.4,
+              158.1
+            ],
+            [
+              92.4,
+              163.45
+            ],
+            [
+              102.5,
+              163.45
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P016",
+        "plot_number": "39",
+        "area_drawing_units2": 54.302,
+        "marker_x": 106.024,
+        "marker_y": 160.774,
+        "width": 10.15,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "39",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.65,
+              163.45
+            ],
+            [
+              112.65,
+              158.1
+            ],
+            [
+              102.5,
+              158.1
+            ],
+            [
+              102.5,
+              163.45
+            ],
+            [
+              112.65,
+              163.45
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P017",
+        "plot_number": "43",
+        "area_drawing_units2": 40.794,
+        "marker_x": 122.364,
+        "marker_y": 160.774,
+        "width": 7.65,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "43",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              117.65,
+              158.1
+            ],
+            [
+              117.7,
+              163.45
+            ],
+            [
+              125.3,
+              163.45
+            ],
+            [
+              125.3,
+              158.1
+            ],
+            [
+              117.65,
+              158.1
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P018",
+        "plot_number": "64",
+        "area_drawing_units2": 45.074,
+        "marker_x": 129.646,
+        "marker_y": 160.774,
+        "width": 8.45,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "64",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125.3,
+              158.1
+            ],
+            [
+              125.3,
+              163.45
+            ],
+            [
+              133.75,
+              163.45
+            ],
+            [
+              133.7,
+              158.1
+            ],
+            [
+              125.3,
+              158.1
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P019",
+        "plot_number": "110",
+        "area_drawing_units2": 31.454,
+        "marker_x": 169.185,
+        "marker_y": 160.309,
+        "width": 7.6,
+        "height": 4.85,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "110",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              166.6,
+              158.1
+            ],
+            [
+              166.65,
+              162.95
+            ],
+            [
+              174.2,
+              161.55
+            ],
+            [
+              174.2,
+              158.1
+            ],
+            [
+              166.6,
+              158.1
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P020",
+        "plot_number": "111",
+        "area_drawing_units2": 54.585,
+        "marker_x": 183.409,
+        "marker_y": 156.33,
+        "width": 7.6,
+        "height": 7.95,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "111",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              179.2,
+              152.65
+            ],
+            [
+              179.25,
+              160.6
+            ],
+            [
+              186.8,
+              159.15
+            ],
+            [
+              186.75,
+              152.65
+            ],
+            [
+              179.2,
+              152.65
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P021",
+        "plot_number": "132",
+        "area_drawing_units2": 44.97,
+        "marker_x": 189.887,
+        "marker_y": 155.864,
+        "width": 7.8,
+        "height": 6.5,
+        "vertices": 5,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "132",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              186.75,
+              152.65
+            ],
+            [
+              186.8,
+              159.15
+            ],
+            [
+              190.1,
+              158.55
+            ],
+            [
+              194.55,
+              157.75
+            ],
+            [
+              194.5,
+              152.65
+            ],
+            [
+              186.75,
+              152.65
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P022",
+        "plot_number": "11",
+        "area_drawing_units2": 68.942,
+        "marker_x": 77.661,
+        "marker_y": 155.483,
+        "width": 12.95,
+        "height": 5.45,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "11",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.35,
+              158.1
+            ],
+            [
+              87.3,
+              152.65
+            ],
+            [
+              74.95,
+              152.65
+            ],
+            [
+              74.4,
+              158.1
+            ],
+            [
+              87.35,
+              158.1
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P023",
+        "plot_number": "19",
+        "area_drawing_units2": 55.045,
+        "marker_x": 98.701,
+        "marker_y": 155.356,
+        "width": 10.15,
+        "height": 5.45,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "19",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              102.5,
+              158.1
+            ],
+            [
+              102.45,
+              152.65
+            ],
+            [
+              92.35,
+              152.65
+            ],
+            [
+              92.4,
+              158.1
+            ],
+            [
+              102.5,
+              158.1
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P024",
+        "plot_number": "38",
+        "area_drawing_units2": 55.317,
+        "marker_x": 105.982,
+        "marker_y": 155.356,
+        "width": 10.2,
+        "height": 5.45,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "38",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.65,
+              158.1
+            ],
+            [
+              112.6,
+              152.65
+            ],
+            [
+              102.45,
+              152.65
+            ],
+            [
+              102.5,
+              158.1
+            ],
+            [
+              112.65,
+              158.1
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P025",
+        "plot_number": "44",
+        "area_drawing_units2": 41.556,
+        "marker_x": 122.322,
+        "marker_y": 155.356,
+        "width": 7.65,
+        "height": 5.45,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "44",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              117.65,
+              152.65
+            ],
+            [
+              117.65,
+              158.1
+            ],
+            [
+              125.3,
+              158.1
+            ],
+            [
+              125.25,
+              152.65
+            ],
+            [
+              117.65,
+              152.65
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P026",
+        "plot_number": "63",
+        "area_drawing_units2": 45.78,
+        "marker_x": 129.603,
+        "marker_y": 155.356,
+        "width": 8.45,
+        "height": 5.45,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "63",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125.25,
+              152.65
+            ],
+            [
+              125.3,
+              158.1
+            ],
+            [
+              133.7,
+              158.1
+            ],
+            [
+              133.65,
+              152.65
+            ],
+            [
+              125.25,
+              152.65
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P027",
+        "plot_number": "68",
+        "area_drawing_units2": 41.284,
+        "marker_x": 142.558,
+        "marker_y": 155.356,
+        "width": 7.6,
+        "height": 5.45,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "68",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.7,
+              152.65
+            ],
+            [
+              138.75,
+              158.1
+            ],
+            [
+              146.3,
+              158.1
+            ],
+            [
+              146.3,
+              152.65
+            ],
+            [
+              138.7,
+              152.65
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P028",
+        "plot_number": "87",
+        "area_drawing_units2": 41.42,
+        "marker_x": 149.838,
+        "marker_y": 155.356,
+        "width": 7.6,
+        "height": 5.45,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "87",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              146.3,
+              152.65
+            ],
+            [
+              146.3,
+              158.1
+            ],
+            [
+              153.9,
+              158.1
+            ],
+            [
+              153.9,
+              152.65
+            ],
+            [
+              146.3,
+              152.65
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P029",
+        "plot_number": "90",
+        "area_drawing_units2": 41.284,
+        "marker_x": 162.793,
+        "marker_y": 155.356,
+        "width": 7.6,
+        "height": 5.45,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "90",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              159.0,
+              152.65
+            ],
+            [
+              159.0,
+              158.1
+            ],
+            [
+              166.6,
+              158.1
+            ],
+            [
+              166.55,
+              152.65
+            ],
+            [
+              159.0,
+              152.65
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P030",
+        "plot_number": "109",
+        "area_drawing_units2": 41.42,
+        "marker_x": 170.075,
+        "marker_y": 155.356,
+        "width": 7.65,
+        "height": 5.45,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "109",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              166.55,
+              152.65
+            ],
+            [
+              166.6,
+              158.1
+            ],
+            [
+              174.2,
+              158.1
+            ],
+            [
+              174.15,
+              152.65
+            ],
+            [
+              166.55,
+              152.65
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P031",
+        "plot_number": "133",
+        "area_drawing_units2": 80.877,
+        "marker_x": 205.041,
+        "marker_y": 152.436,
+        "width": 9.4,
+        "height": 9.5,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "133",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              199.55,
+              147.3
+            ],
+            [
+              199.6,
+              156.8
+            ],
+            [
+              208.9,
+              155.1
+            ],
+            [
+              208.95,
+              147.3
+            ],
+            [
+              199.55,
+              147.3
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P032",
+        "plot_number": "10",
+        "area_drawing_units2": 64.467,
+        "marker_x": 78.337,
+        "marker_y": 150.023,
+        "width": 12.35,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "10",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.3,
+              152.65
+            ],
+            [
+              87.25,
+              147.3
+            ],
+            [
+              75.5,
+              147.3
+            ],
+            [
+              74.95,
+              152.65
+            ],
+            [
+              87.3,
+              152.65
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P033",
+        "plot_number": "20",
+        "area_drawing_units2": 54.035,
+        "marker_x": 98.701,
+        "marker_y": 149.98,
+        "width": 10.15,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "20",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              102.45,
+              152.65
+            ],
+            [
+              102.4,
+              147.3
+            ],
+            [
+              92.3,
+              147.3
+            ],
+            [
+              92.35,
+              152.65
+            ],
+            [
+              102.45,
+              152.65
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P034",
+        "plot_number": "37",
+        "area_drawing_units2": 54.302,
+        "marker_x": 105.94,
+        "marker_y": 149.98,
+        "width": 10.2,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "37",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.6,
+              152.65
+            ],
+            [
+              112.55,
+              147.3
+            ],
+            [
+              102.4,
+              147.3
+            ],
+            [
+              102.45,
+              152.65
+            ],
+            [
+              112.6,
+              152.65
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P035",
+        "plot_number": "45",
+        "area_drawing_units2": 40.66,
+        "marker_x": 122.28,
+        "marker_y": 149.98,
+        "width": 7.65,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "45",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              117.6,
+              147.3
+            ],
+            [
+              117.65,
+              152.65
+            ],
+            [
+              125.25,
+              152.65
+            ],
+            [
+              125.2,
+              147.3
+            ],
+            [
+              117.6,
+              147.3
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P036",
+        "plot_number": "62",
+        "area_drawing_units2": 45.074,
+        "marker_x": 129.562,
+        "marker_y": 149.98,
+        "width": 8.45,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "62",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125.2,
+              147.3
+            ],
+            [
+              125.25,
+              152.65
+            ],
+            [
+              133.65,
+              152.65
+            ],
+            [
+              133.65,
+              147.3
+            ],
+            [
+              125.2,
+              147.3
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P037",
+        "plot_number": "69",
+        "area_drawing_units2": 40.66,
+        "marker_x": 142.515,
+        "marker_y": 149.98,
+        "width": 7.65,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "69",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.65,
+              147.3
+            ],
+            [
+              138.7,
+              152.65
+            ],
+            [
+              146.3,
+              152.65
+            ],
+            [
+              146.25,
+              147.3
+            ],
+            [
+              138.65,
+              147.3
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P038",
+        "plot_number": "86",
+        "area_drawing_units2": 40.66,
+        "marker_x": 149.797,
+        "marker_y": 149.98,
+        "width": 7.65,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "86",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              146.25,
+              147.3
+            ],
+            [
+              146.3,
+              152.65
+            ],
+            [
+              153.9,
+              152.65
+            ],
+            [
+              153.85,
+              147.3
+            ],
+            [
+              146.25,
+              147.3
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P039",
+        "plot_number": "91",
+        "area_drawing_units2": 40.526,
+        "marker_x": 162.751,
+        "marker_y": 149.98,
+        "width": 7.6,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "91",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              158.95,
+              147.3
+            ],
+            [
+              159.0,
+              152.65
+            ],
+            [
+              166.55,
+              152.65
+            ],
+            [
+              166.55,
+              147.3
+            ],
+            [
+              158.95,
+              147.3
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P040",
+        "plot_number": "108",
+        "area_drawing_units2": 40.526,
+        "marker_x": 170.032,
+        "marker_y": 149.98,
+        "width": 7.6,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "108",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              166.55,
+              147.3
+            ],
+            [
+              166.55,
+              152.65
+            ],
+            [
+              174.15,
+              152.65
+            ],
+            [
+              174.1,
+              147.3
+            ],
+            [
+              166.55,
+              147.3
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P041",
+        "plot_number": "112",
+        "area_drawing_units2": 40.526,
+        "marker_x": 182.775,
+        "marker_y": 149.98,
+        "width": 7.6,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "112",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              179.15,
+              147.3
+            ],
+            [
+              179.2,
+              152.65
+            ],
+            [
+              186.75,
+              152.65
+            ],
+            [
+              186.75,
+              147.3
+            ],
+            [
+              179.15,
+              147.3
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P042",
+        "plot_number": "131",
+        "area_drawing_units2": 41.462,
+        "marker_x": 190.479,
+        "marker_y": 149.98,
+        "width": 7.75,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "131",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              186.75,
+              147.3
+            ],
+            [
+              186.75,
+              152.65
+            ],
+            [
+              194.5,
+              152.65
+            ],
+            [
+              194.5,
+              147.3
+            ],
+            [
+              186.75,
+              147.3
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P043",
+        "plot_number": "134",
+        "area_drawing_units2": 51.23,
+        "marker_x": 205.0,
+        "marker_y": 144.985,
+        "width": 9.4,
+        "height": 5.45,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "134",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              199.55,
+              141.85
+            ],
+            [
+              199.55,
+              147.3
+            ],
+            [
+              208.95,
+              147.3
+            ],
+            [
+              208.95,
+              141.85
+            ],
+            [
+              199.55,
+              141.85
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P044",
+        "plot_number": "09",
+        "area_drawing_units2": 62.403,
+        "marker_x": 78.889,
+        "marker_y": 144.772,
+        "width": 11.75,
+        "height": 5.45,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "09",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.25,
+              147.3
+            ],
+            [
+              87.2,
+              141.85
+            ],
+            [
+              76.05,
+              141.85
+            ],
+            [
+              75.5,
+              147.3
+            ],
+            [
+              87.25,
+              147.3
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P045",
+        "plot_number": "21",
+        "area_drawing_units2": 55.045,
+        "marker_x": 98.658,
+        "marker_y": 144.562,
+        "width": 10.1,
+        "height": 5.45,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "21",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              102.4,
+              147.3
+            ],
+            [
+              102.4,
+              141.85
+            ],
+            [
+              92.3,
+              141.85
+            ],
+            [
+              92.3,
+              147.3
+            ],
+            [
+              102.4,
+              147.3
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P046",
+        "plot_number": "36",
+        "area_drawing_units2": 55.181,
+        "marker_x": 105.94,
+        "marker_y": 144.562,
+        "width": 10.15,
+        "height": 5.45,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "36",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.55,
+              147.3
+            ],
+            [
+              112.5,
+              141.85
+            ],
+            [
+              102.4,
+              141.85
+            ],
+            [
+              102.4,
+              147.3
+            ],
+            [
+              112.55,
+              147.3
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P047",
+        "plot_number": "46",
+        "area_drawing_units2": 41.556,
+        "marker_x": 122.28,
+        "marker_y": 144.562,
+        "width": 7.65,
+        "height": 5.45,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "46",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              117.55,
+              141.85
+            ],
+            [
+              117.6,
+              147.3
+            ],
+            [
+              125.2,
+              147.3
+            ],
+            [
+              125.2,
+              141.85
+            ],
+            [
+              117.55,
+              141.85
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P048",
+        "plot_number": "61",
+        "area_drawing_units2": 45.916,
+        "marker_x": 129.519,
+        "marker_y": 144.562,
+        "width": 8.45,
+        "height": 5.45,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "61",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125.2,
+              141.85
+            ],
+            [
+              125.2,
+              147.3
+            ],
+            [
+              133.65,
+              147.3
+            ],
+            [
+              133.6,
+              141.85
+            ],
+            [
+              125.2,
+              141.85
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P049",
+        "plot_number": "70",
+        "area_drawing_units2": 41.42,
+        "marker_x": 142.515,
+        "marker_y": 144.562,
+        "width": 7.6,
+        "height": 5.45,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "70",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.65,
+              141.85
+            ],
+            [
+              138.65,
+              147.3
+            ],
+            [
+              146.25,
+              147.3
+            ],
+            [
+              146.25,
+              141.85
+            ],
+            [
+              138.65,
+              141.85
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P050",
+        "plot_number": "85",
+        "area_drawing_units2": 41.42,
+        "marker_x": 149.754,
+        "marker_y": 144.562,
+        "width": 7.6,
+        "height": 5.45,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "85",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              146.25,
+              141.85
+            ],
+            [
+              146.25,
+              147.3
+            ],
+            [
+              153.85,
+              147.3
+            ],
+            [
+              153.85,
+              141.85
+            ],
+            [
+              146.25,
+              141.85
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P051",
+        "plot_number": "92",
+        "area_drawing_units2": 41.42,
+        "marker_x": 162.751,
+        "marker_y": 144.562,
+        "width": 7.65,
+        "height": 5.45,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "92",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              158.9,
+              141.85
+            ],
+            [
+              158.95,
+              147.3
+            ],
+            [
+              166.55,
+              147.3
+            ],
+            [
+              166.5,
+              141.85
+            ],
+            [
+              158.9,
+              141.85
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P052",
+        "plot_number": "107",
+        "area_drawing_units2": 41.148,
+        "marker_x": 169.989,
+        "marker_y": 144.562,
+        "width": 7.6,
+        "height": 5.45,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "107",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              166.5,
+              141.85
+            ],
+            [
+              166.55,
+              147.3
+            ],
+            [
+              174.1,
+              147.3
+            ],
+            [
+              174.05,
+              141.85
+            ],
+            [
+              166.5,
+              141.85
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P053",
+        "plot_number": "130",
+        "area_drawing_units2": 42.238,
+        "marker_x": 190.479,
+        "marker_y": 144.562,
+        "width": 7.8,
+        "height": 5.45,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "130",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              186.7,
+              141.85
+            ],
+            [
+              186.75,
+              147.3
+            ],
+            [
+              194.5,
+              147.3
+            ],
+            [
+              194.45,
+              141.85
+            ],
+            [
+              186.7,
+              141.85
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P054",
+        "plot_number": "113",
+        "area_drawing_units2": 41.284,
+        "marker_x": 182.647,
+        "marker_y": 144.519,
+        "width": 7.6,
+        "height": 5.45,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "113",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              179.15,
+              141.85
+            ],
+            [
+              179.15,
+              147.3
+            ],
+            [
+              186.75,
+              147.3
+            ],
+            [
+              186.7,
+              141.85
+            ],
+            [
+              179.15,
+              141.85
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P055",
+        "plot_number": "71",
+        "area_drawing_units2": 40.66,
+        "marker_x": 142.938,
+        "marker_y": 139.947,
+        "width": 7.65,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "71",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.6,
+              136.5
+            ],
+            [
+              138.65,
+              141.85
+            ],
+            [
+              146.25,
+              141.85
+            ],
+            [
+              146.2,
+              136.5
+            ],
+            [
+              138.6,
+              136.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P056",
+        "plot_number": "93",
+        "area_drawing_units2": 40.526,
+        "marker_x": 163.216,
+        "marker_y": 139.862,
+        "width": 7.6,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "93",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              158.9,
+              136.5
+            ],
+            [
+              158.9,
+              141.85
+            ],
+            [
+              166.5,
+              141.85
+            ],
+            [
+              166.45,
+              136.5
+            ],
+            [
+              158.9,
+              136.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P057",
+        "plot_number": "114",
+        "area_drawing_units2": 40.526,
+        "marker_x": 183.621,
+        "marker_y": 139.777,
+        "width": 7.6,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "114",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              179.1,
+              136.5
+            ],
+            [
+              179.15,
+              141.85
+            ],
+            [
+              186.7,
+              141.85
+            ],
+            [
+              186.7,
+              136.5
+            ],
+            [
+              179.1,
+              136.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P058",
+        "plot_number": "106",
+        "area_drawing_units2": 40.526,
+        "marker_x": 168.974,
+        "marker_y": 139.736,
+        "width": 7.6,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "106",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              166.45,
+              136.5
+            ],
+            [
+              166.5,
+              141.85
+            ],
+            [
+              174.05,
+              141.85
+            ],
+            [
+              174.05,
+              136.5
+            ],
+            [
+              166.45,
+              136.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P059",
+        "plot_number": "129",
+        "area_drawing_units2": 41.462,
+        "marker_x": 189.505,
+        "marker_y": 139.736,
+        "width": 7.75,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "129",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              186.7,
+              136.5
+            ],
+            [
+              186.7,
+              141.85
+            ],
+            [
+              194.45,
+              141.85
+            ],
+            [
+              194.45,
+              136.5
+            ],
+            [
+              186.7,
+              136.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P060",
+        "plot_number": "84",
+        "area_drawing_units2": 40.66,
+        "marker_x": 148.696,
+        "marker_y": 139.693,
+        "width": 7.65,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "84",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              146.2,
+              136.5
+            ],
+            [
+              146.25,
+              141.85
+            ],
+            [
+              153.85,
+              141.85
+            ],
+            [
+              153.8,
+              136.5
+            ],
+            [
+              146.2,
+              136.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P061",
+        "plot_number": "135",
+        "area_drawing_units2": 50.424,
+        "marker_x": 205.0,
+        "marker_y": 139.608,
+        "width": 9.45,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "135",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              199.5,
+              136.5
+            ],
+            [
+              199.55,
+              141.85
+            ],
+            [
+              208.95,
+              141.85
+            ],
+            [
+              208.95,
+              136.5
+            ],
+            [
+              199.5,
+              136.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P062",
+        "plot_number": "47",
+        "area_drawing_units2": 40.927,
+        "marker_x": 122.025,
+        "marker_y": 139.566,
+        "width": 7.7,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "47",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              117.5,
+              136.5
+            ],
+            [
+              117.55,
+              141.85
+            ],
+            [
+              125.2,
+              141.85
+            ],
+            [
+              125.15,
+              136.5
+            ],
+            [
+              117.5,
+              136.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P063",
+        "plot_number": "60",
+        "area_drawing_units2": 44.94,
+        "marker_x": 128.672,
+        "marker_y": 139.566,
+        "width": 8.45,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "60",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125.15,
+              136.5
+            ],
+            [
+              125.2,
+              141.85
+            ],
+            [
+              133.6,
+              141.85
+            ],
+            [
+              133.55,
+              136.5
+            ],
+            [
+              125.15,
+              136.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P064",
+        "plot_number": "08",
+        "area_drawing_units2": 58.315,
+        "marker_x": 79.354,
+        "marker_y": 139.227,
+        "width": 11.15,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "08",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.2,
+              141.85
+            ],
+            [
+              87.2,
+              136.5
+            ],
+            [
+              76.55,
+              136.5
+            ],
+            [
+              76.05,
+              141.85
+            ],
+            [
+              87.2,
+              141.85
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P065",
+        "plot_number": "22",
+        "area_drawing_units2": 54.035,
+        "marker_x": 98.615,
+        "marker_y": 139.185,
+        "width": 10.15,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "22",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              102.4,
+              141.85
+            ],
+            [
+              102.35,
+              136.5
+            ],
+            [
+              92.25,
+              136.5
+            ],
+            [
+              92.3,
+              141.85
+            ],
+            [
+              102.4,
+              141.85
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P066",
+        "plot_number": "35",
+        "area_drawing_units2": 54.169,
+        "marker_x": 105.727,
+        "marker_y": 139.185,
+        "width": 10.15,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "35",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.5,
+              141.85
+            ],
+            [
+              112.5,
+              136.5
+            ],
+            [
+              102.35,
+              136.5
+            ],
+            [
+              102.4,
+              141.85
+            ],
+            [
+              112.5,
+              141.85
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P067",
+        "plot_number": "07",
+        "area_drawing_units2": 52.785,
+        "marker_x": 79.692,
+        "marker_y": 134.189,
+        "width": 10.65,
+        "height": 5.1,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "07",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.2,
+              136.5
+            ],
+            [
+              87.15,
+              131.4
+            ],
+            [
+              77.1,
+              131.4
+            ],
+            [
+              76.55,
+              136.5
+            ],
+            [
+              87.2,
+              136.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P068",
+        "plot_number": "136",
+        "area_drawing_units2": 48.195,
+        "marker_x": 205.0,
+        "marker_y": 134.189,
+        "width": 9.45,
+        "height": 5.1,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "136",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              199.5,
+              131.4
+            ],
+            [
+              199.5,
+              136.5
+            ],
+            [
+              208.95,
+              136.5
+            ],
+            [
+              208.95,
+              131.4
+            ],
+            [
+              199.5,
+              131.4
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P069",
+        "plot_number": "137",
+        "area_drawing_units2": 50.691,
+        "marker_x": 205.0,
+        "marker_y": 129.152,
+        "width": 9.5,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "137",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              199.45,
+              126.05
+            ],
+            [
+              199.5,
+              131.4
+            ],
+            [
+              208.95,
+              131.4
+            ],
+            [
+              208.95,
+              126.05
+            ],
+            [
+              199.45,
+              126.05
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P070",
+        "plot_number": "06",
+        "area_drawing_units2": 52.163,
+        "marker_x": 80.201,
+        "marker_y": 128.983,
+        "width": 10.05,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "06",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.15,
+              131.4
+            ],
+            [
+              87.1,
+              126.05
+            ],
+            [
+              77.65,
+              126.05
+            ],
+            [
+              77.1,
+              131.4
+            ],
+            [
+              87.15,
+              131.4
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P071",
+        "plot_number": "59",
+        "area_drawing_units2": 45.074,
+        "marker_x": 128.375,
+        "marker_y": 128.813,
+        "width": 8.45,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "59",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125.05,
+              126.05
+            ],
+            [
+              125.1,
+              131.4
+            ],
+            [
+              133.5,
+              131.4
+            ],
+            [
+              133.5,
+              126.05
+            ],
+            [
+              125.05,
+              126.05
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P072",
+        "plot_number": "23",
+        "area_drawing_units2": 54.035,
+        "marker_x": 98.531,
+        "marker_y": 128.728,
+        "width": 10.15,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "23",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              102.3,
+              131.4
+            ],
+            [
+              102.25,
+              126.05
+            ],
+            [
+              92.15,
+              126.05
+            ],
+            [
+              92.2,
+              131.4
+            ],
+            [
+              102.3,
+              131.4
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P073",
+        "plot_number": "34",
+        "area_drawing_units2": 54.303,
+        "marker_x": 105.813,
+        "marker_y": 128.728,
+        "width": 10.2,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "34",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.45,
+              131.4
+            ],
+            [
+              112.4,
+              126.05
+            ],
+            [
+              102.25,
+              126.05
+            ],
+            [
+              102.3,
+              131.4
+            ],
+            [
+              112.45,
+              131.4
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P074",
+        "plot_number": "48",
+        "area_drawing_units2": 40.526,
+        "marker_x": 122.28,
+        "marker_y": 128.559,
+        "width": 7.6,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "48",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              117.5,
+              126.05
+            ],
+            [
+              117.5,
+              131.4
+            ],
+            [
+              125.1,
+              131.4
+            ],
+            [
+              125.05,
+              126.05
+            ],
+            [
+              117.5,
+              126.05
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P075",
+        "plot_number": "115",
+        "area_drawing_units2": 40.526,
+        "marker_x": 183.367,
+        "marker_y": 128.559,
+        "width": 7.6,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "115",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              179.05,
+              126.05
+            ],
+            [
+              179.05,
+              131.4
+            ],
+            [
+              186.65,
+              131.4
+            ],
+            [
+              186.6,
+              126.05
+            ],
+            [
+              179.05,
+              126.05
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P076",
+        "plot_number": "128",
+        "area_drawing_units2": 41.463,
+        "marker_x": 189.59,
+        "marker_y": 128.559,
+        "width": 7.8,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "128",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              186.6,
+              126.05
+            ],
+            [
+              186.65,
+              131.4
+            ],
+            [
+              194.4,
+              131.4
+            ],
+            [
+              194.35,
+              126.05
+            ],
+            [
+              186.6,
+              126.05
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P077",
+        "plot_number": "83",
+        "area_drawing_units2": 40.393,
+        "marker_x": 148.908,
+        "marker_y": 128.517,
+        "width": 7.6,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "83",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              146.15,
+              126.05
+            ],
+            [
+              146.2,
+              131.4
+            ],
+            [
+              153.75,
+              131.4
+            ],
+            [
+              153.7,
+              126.05
+            ],
+            [
+              146.15,
+              126.05
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P078",
+        "plot_number": "94",
+        "area_drawing_units2": 40.393,
+        "marker_x": 163.343,
+        "marker_y": 128.517,
+        "width": 7.6,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "94",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              158.8,
+              126.05
+            ],
+            [
+              158.85,
+              131.4
+            ],
+            [
+              166.4,
+              131.4
+            ],
+            [
+              166.35,
+              126.05
+            ],
+            [
+              158.8,
+              126.05
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P079",
+        "plot_number": "72",
+        "area_drawing_units2": 40.66,
+        "marker_x": 143.108,
+        "marker_y": 128.474,
+        "width": 7.65,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "72",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.55,
+              126.05
+            ],
+            [
+              138.6,
+              131.4
+            ],
+            [
+              146.2,
+              131.4
+            ],
+            [
+              146.15,
+              126.05
+            ],
+            [
+              138.55,
+              126.05
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P080",
+        "plot_number": "105",
+        "area_drawing_units2": 40.66,
+        "marker_x": 169.566,
+        "marker_y": 128.432,
+        "width": 7.65,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "105",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              166.35,
+              126.05
+            ],
+            [
+              166.4,
+              131.4
+            ],
+            [
+              174.0,
+              131.4
+            ],
+            [
+              173.95,
+              126.05
+            ],
+            [
+              166.35,
+              126.05
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P081",
+        "plot_number": "138",
+        "area_drawing_units2": 51.911,
+        "marker_x": 204.957,
+        "marker_y": 123.733,
+        "width": 9.55,
+        "height": 5.45,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "138",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              199.45,
+              120.6
+            ],
+            [
+              199.45,
+              126.05
+            ],
+            [
+              208.95,
+              126.05
+            ],
+            [
+              209.0,
+              120.6
+            ],
+            [
+              199.45,
+              120.6
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P082",
+        "plot_number": "05",
+        "area_drawing_units2": 50.004,
+        "marker_x": 80.454,
+        "marker_y": 123.649,
+        "width": 9.45,
+        "height": 5.45,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "05",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.1,
+              126.05
+            ],
+            [
+              87.1,
+              120.6
+            ],
+            [
+              78.2,
+              120.6
+            ],
+            [
+              77.65,
+              126.05
+            ],
+            [
+              87.1,
+              126.05
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P083",
+        "plot_number": "24",
+        "area_drawing_units2": 55.045,
+        "marker_x": 98.531,
+        "marker_y": 123.352,
+        "width": 10.1,
+        "height": 5.45,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "24",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              102.25,
+              126.05
+            ],
+            [
+              102.25,
+              120.6
+            ],
+            [
+              92.15,
+              120.6
+            ],
+            [
+              92.15,
+              126.05
+            ],
+            [
+              102.25,
+              126.05
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P084",
+        "plot_number": "33",
+        "area_drawing_units2": 55.181,
+        "marker_x": 105.77,
+        "marker_y": 123.352,
+        "width": 10.15,
+        "height": 5.45,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "33",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.4,
+              126.05
+            ],
+            [
+              112.35,
+              120.6
+            ],
+            [
+              102.25,
+              120.6
+            ],
+            [
+              102.25,
+              126.05
+            ],
+            [
+              112.4,
+              126.05
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P085",
+        "plot_number": "49",
+        "area_drawing_units2": 41.284,
+        "marker_x": 122.111,
+        "marker_y": 123.352,
+        "width": 7.6,
+        "height": 5.45,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "49",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              117.45,
+              120.6
+            ],
+            [
+              117.5,
+              126.05
+            ],
+            [
+              125.05,
+              126.05
+            ],
+            [
+              125.05,
+              120.6
+            ],
+            [
+              117.45,
+              120.6
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P086",
+        "plot_number": "58",
+        "area_drawing_units2": 45.916,
+        "marker_x": 129.392,
+        "marker_y": 123.352,
+        "width": 8.45,
+        "height": 5.45,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "58",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125.05,
+              120.6
+            ],
+            [
+              125.05,
+              126.05
+            ],
+            [
+              133.5,
+              126.05
+            ],
+            [
+              133.45,
+              120.6
+            ],
+            [
+              125.05,
+              120.6
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P087",
+        "plot_number": "73",
+        "area_drawing_units2": 41.284,
+        "marker_x": 142.346,
+        "marker_y": 123.352,
+        "width": 7.6,
+        "height": 5.45,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "73",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.55,
+              120.6
+            ],
+            [
+              138.55,
+              126.05
+            ],
+            [
+              146.15,
+              126.05
+            ],
+            [
+              146.1,
+              120.6
+            ],
+            [
+              138.55,
+              120.6
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P088",
+        "plot_number": "82",
+        "area_drawing_units2": 41.284,
+        "marker_x": 149.627,
+        "marker_y": 123.352,
+        "width": 7.6,
+        "height": 5.45,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "82",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              146.1,
+              120.6
+            ],
+            [
+              146.15,
+              126.05
+            ],
+            [
+              153.7,
+              126.05
+            ],
+            [
+              153.7,
+              120.6
+            ],
+            [
+              146.1,
+              120.6
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P089",
+        "plot_number": "95",
+        "area_drawing_units2": 41.284,
+        "marker_x": 162.581,
+        "marker_y": 123.352,
+        "width": 7.6,
+        "height": 5.45,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "95",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              158.75,
+              120.6
+            ],
+            [
+              158.8,
+              126.05
+            ],
+            [
+              166.35,
+              126.05
+            ],
+            [
+              166.35,
+              120.6
+            ],
+            [
+              158.75,
+              120.6
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P090",
+        "plot_number": "104",
+        "area_drawing_units2": 41.42,
+        "marker_x": 169.863,
+        "marker_y": 123.352,
+        "width": 7.6,
+        "height": 5.45,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "104",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              166.35,
+              120.6
+            ],
+            [
+              166.35,
+              126.05
+            ],
+            [
+              173.95,
+              126.05
+            ],
+            [
+              173.95,
+              120.6
+            ],
+            [
+              166.35,
+              120.6
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P091",
+        "plot_number": "116",
+        "area_drawing_units2": 41.284,
+        "marker_x": 183.537,
+        "marker_y": 123.352,
+        "width": 7.6,
+        "height": 5.45,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "116",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              179.0,
+              120.6
+            ],
+            [
+              179.05,
+              126.05
+            ],
+            [
+              186.6,
+              126.05
+            ],
+            [
+              186.6,
+              120.6
+            ],
+            [
+              179.0,
+              120.6
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P092",
+        "plot_number": "127",
+        "area_drawing_units2": 42.238,
+        "marker_x": 190.352,
+        "marker_y": 123.352,
+        "width": 7.75,
+        "height": 5.45,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "127",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              186.6,
+              120.6
+            ],
+            [
+              186.6,
+              126.05
+            ],
+            [
+              194.35,
+              126.05
+            ],
+            [
+              194.35,
+              120.6
+            ],
+            [
+              186.6,
+              120.6
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P093",
+        "plot_number": "139",
+        "area_drawing_units2": 51.226,
+        "marker_x": 204.914,
+        "marker_y": 118.357,
+        "width": 9.6,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "139",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              199.4,
+              115.25
+            ],
+            [
+              199.45,
+              120.6
+            ],
+            [
+              209.0,
+              120.6
+            ],
+            [
+              209.0,
+              115.25
+            ],
+            [
+              199.4,
+              115.25
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P094",
+        "plot_number": "04",
+        "area_drawing_units2": 46.144,
+        "marker_x": 81.302,
+        "marker_y": 118.23,
+        "width": 8.9,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "04",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.1,
+              120.6
+            ],
+            [
+              87.05,
+              115.25
+            ],
+            [
+              78.7,
+              115.25
+            ],
+            [
+              78.2,
+              120.6
+            ],
+            [
+              87.1,
+              120.6
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P095",
+        "plot_number": "25",
+        "area_drawing_units2": 54.035,
+        "marker_x": 98.489,
+        "marker_y": 117.934,
+        "width": 10.15,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "25",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              102.25,
+              120.6
+            ],
+            [
+              102.2,
+              115.25
+            ],
+            [
+              92.1,
+              115.25
+            ],
+            [
+              92.15,
+              120.6
+            ],
+            [
+              102.25,
+              120.6
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P096",
+        "plot_number": "32",
+        "area_drawing_units2": 54.169,
+        "marker_x": 105.77,
+        "marker_y": 117.934,
+        "width": 10.15,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "32",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.35,
+              120.6
+            ],
+            [
+              112.35,
+              115.25
+            ],
+            [
+              102.2,
+              115.25
+            ],
+            [
+              102.25,
+              120.6
+            ],
+            [
+              112.35,
+              120.6
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P097",
+        "plot_number": "50",
+        "area_drawing_units2": 40.66,
+        "marker_x": 122.068,
+        "marker_y": 117.934,
+        "width": 7.65,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "50",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              117.4,
+              115.25
+            ],
+            [
+              117.45,
+              120.6
+            ],
+            [
+              125.05,
+              120.6
+            ],
+            [
+              125.0,
+              115.25
+            ],
+            [
+              117.4,
+              115.25
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P098",
+        "plot_number": "57",
+        "area_drawing_units2": 44.94,
+        "marker_x": 129.35,
+        "marker_y": 117.934,
+        "width": 8.45,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "57",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125.0,
+              115.25
+            ],
+            [
+              125.05,
+              120.6
+            ],
+            [
+              133.45,
+              120.6
+            ],
+            [
+              133.4,
+              115.25
+            ],
+            [
+              125.0,
+              115.25
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P099",
+        "plot_number": "74",
+        "area_drawing_units2": 40.526,
+        "marker_x": 142.346,
+        "marker_y": 117.934,
+        "width": 7.6,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "74",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.5,
+              115.25
+            ],
+            [
+              138.55,
+              120.6
+            ],
+            [
+              146.1,
+              120.6
+            ],
+            [
+              146.1,
+              115.25
+            ],
+            [
+              138.5,
+              115.25
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P100",
+        "plot_number": "81",
+        "area_drawing_units2": 40.526,
+        "marker_x": 149.585,
+        "marker_y": 117.934,
+        "width": 7.6,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "81",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              146.1,
+              115.25
+            ],
+            [
+              146.1,
+              120.6
+            ],
+            [
+              153.7,
+              120.6
+            ],
+            [
+              153.65,
+              115.25
+            ],
+            [
+              146.1,
+              115.25
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P101",
+        "plot_number": "96",
+        "area_drawing_units2": 40.526,
+        "marker_x": 162.581,
+        "marker_y": 117.934,
+        "width": 7.6,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "96",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              158.75,
+              115.25
+            ],
+            [
+              158.75,
+              120.6
+            ],
+            [
+              166.35,
+              120.6
+            ],
+            [
+              166.3,
+              115.25
+            ],
+            [
+              158.75,
+              115.25
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P102",
+        "plot_number": "103",
+        "area_drawing_units2": 40.66,
+        "marker_x": 169.82,
+        "marker_y": 117.934,
+        "width": 7.65,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "103",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              166.3,
+              115.25
+            ],
+            [
+              166.35,
+              120.6
+            ],
+            [
+              173.95,
+              120.6
+            ],
+            [
+              173.9,
+              115.25
+            ],
+            [
+              166.3,
+              115.25
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P103",
+        "plot_number": "117",
+        "area_drawing_units2": 40.66,
+        "marker_x": 183.409,
+        "marker_y": 117.934,
+        "width": 7.65,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "117",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              178.95,
+              115.25
+            ],
+            [
+              179.0,
+              120.6
+            ],
+            [
+              186.6,
+              120.6
+            ],
+            [
+              186.55,
+              115.25
+            ],
+            [
+              178.95,
+              115.25
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P104",
+        "plot_number": "126",
+        "area_drawing_units2": 41.462,
+        "marker_x": 190.31,
+        "marker_y": 117.934,
+        "width": 7.8,
+        "height": 5.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "126",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              186.55,
+              115.25
+            ],
+            [
+              186.6,
+              120.6
+            ],
+            [
+              194.35,
+              120.6
+            ],
+            [
+              194.3,
+              115.25
+            ],
+            [
+              186.55,
+              115.25
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P105",
+        "plot_number": "03",
+        "area_drawing_units2": 43.47,
+        "marker_x": 81.512,
+        "marker_y": 112.981,
+        "width": 8.35,
+        "height": 5.4,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "03",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.05,
+              115.25
+            ],
+            [
+              87.0,
+              109.85
+            ],
+            [
+              79.25,
+              109.85
+            ],
+            [
+              78.7,
+              115.25
+            ],
+            [
+              87.05,
+              115.25
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P106",
+        "plot_number": "140",
+        "area_drawing_units2": 51.84,
+        "marker_x": 204.872,
+        "marker_y": 112.938,
+        "width": 9.6,
+        "height": 5.4,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "140",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              199.4,
+              109.85
+            ],
+            [
+              199.4,
+              115.25
+            ],
+            [
+              209.0,
+              115.25
+            ],
+            [
+              209.0,
+              109.85
+            ],
+            [
+              199.4,
+              109.85
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P107",
+        "plot_number": "26",
+        "area_drawing_units2": 54.54,
+        "marker_x": 98.446,
+        "marker_y": 112.557,
+        "width": 10.15,
+        "height": 5.4,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "26",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              102.2,
+              115.25
+            ],
+            [
+              102.15,
+              109.85
+            ],
+            [
+              92.05,
+              109.85
+            ],
+            [
+              92.1,
+              115.25
+            ],
+            [
+              102.2,
+              115.25
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P108",
+        "plot_number": "",
+        "area_drawing_units2": 54.81,
+        "marker_x": 105.727,
+        "marker_y": 112.557,
+        "width": 10.2,
+        "height": 5.4,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription only; conflicts with PDF-text-matched label \u2014 needs confirmation",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "31",
+        "label_review_required": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.35,
+              115.25
+            ],
+            [
+              112.3,
+              109.85
+            ],
+            [
+              102.15,
+              109.85
+            ],
+            [
+              102.2,
+              115.25
+            ],
+            [
+              112.35,
+              115.25
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P109",
+        "plot_number": "51",
+        "area_drawing_units2": 40.905,
+        "marker_x": 122.068,
+        "marker_y": 112.557,
+        "width": 7.6,
+        "height": 5.4,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "51",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              117.4,
+              109.85
+            ],
+            [
+              117.4,
+              115.25
+            ],
+            [
+              125.0,
+              115.25
+            ],
+            [
+              124.95,
+              109.85
+            ],
+            [
+              117.4,
+              109.85
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P110",
+        "plot_number": "56",
+        "area_drawing_units2": 45.495,
+        "marker_x": 129.307,
+        "marker_y": 112.557,
+        "width": 8.45,
+        "height": 5.4,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "56",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.95,
+              109.85
+            ],
+            [
+              125.0,
+              115.25
+            ],
+            [
+              133.4,
+              115.25
+            ],
+            [
+              133.4,
+              109.85
+            ],
+            [
+              124.95,
+              109.85
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P111",
+        "plot_number": "97",
+        "area_drawing_units2": 40.905,
+        "marker_x": 162.538,
+        "marker_y": 112.557,
+        "width": 7.6,
+        "height": 5.4,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "97",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              158.7,
+              109.85
+            ],
+            [
+              158.75,
+              115.25
+            ],
+            [
+              166.3,
+              115.25
+            ],
+            [
+              166.3,
+              109.85
+            ],
+            [
+              158.7,
+              109.85
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P112",
+        "plot_number": "102",
+        "area_drawing_units2": 40.905,
+        "marker_x": 169.82,
+        "marker_y": 112.557,
+        "width": 7.6,
+        "height": 5.4,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "102",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              166.3,
+              109.85
+            ],
+            [
+              166.3,
+              115.25
+            ],
+            [
+              173.9,
+              115.25
+            ],
+            [
+              173.85,
+              109.85
+            ],
+            [
+              166.3,
+              109.85
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P113",
+        "plot_number": "118",
+        "area_drawing_units2": 41.04,
+        "marker_x": 183.409,
+        "marker_y": 112.557,
+        "width": 7.65,
+        "height": 5.4,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "118",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              178.9,
+              109.85
+            ],
+            [
+              178.95,
+              115.25
+            ],
+            [
+              186.55,
+              115.25
+            ],
+            [
+              186.5,
+              109.85
+            ],
+            [
+              178.9,
+              109.85
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P114",
+        "plot_number": "125",
+        "area_drawing_units2": 41.985,
+        "marker_x": 190.352,
+        "marker_y": 112.557,
+        "width": 7.8,
+        "height": 5.4,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "125",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              186.5,
+              109.85
+            ],
+            [
+              186.55,
+              115.25
+            ],
+            [
+              194.3,
+              115.25
+            ],
+            [
+              194.3,
+              109.85
+            ],
+            [
+              186.5,
+              109.85
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P115",
+        "plot_number": "75",
+        "area_drawing_units2": 41.04,
+        "marker_x": 142.303,
+        "marker_y": 112.388,
+        "width": 7.65,
+        "height": 5.4,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "75",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.45,
+              109.85
+            ],
+            [
+              138.5,
+              115.25
+            ],
+            [
+              146.1,
+              115.25
+            ],
+            [
+              146.05,
+              109.85
+            ],
+            [
+              138.45,
+              109.85
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P116",
+        "plot_number": "80",
+        "area_drawing_units2": 40.77,
+        "marker_x": 149.542,
+        "marker_y": 112.388,
+        "width": 7.6,
+        "height": 5.4,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "80",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              146.05,
+              109.85
+            ],
+            [
+              146.1,
+              115.25
+            ],
+            [
+              153.65,
+              115.25
+            ],
+            [
+              153.6,
+              109.85
+            ],
+            [
+              146.05,
+              109.85
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P117",
+        "plot_number": "02",
+        "area_drawing_units2": 40.365,
+        "marker_x": 82.233,
+        "marker_y": 107.689,
+        "width": 7.75,
+        "height": 5.4,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "02",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.0,
+              109.85
+            ],
+            [
+              87.0,
+              104.45
+            ],
+            [
+              79.8,
+              104.45
+            ],
+            [
+              79.25,
+              109.85
+            ],
+            [
+              87.0,
+              109.85
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P118",
+        "plot_number": "141",
+        "area_drawing_units2": 51.975,
+        "marker_x": 204.872,
+        "marker_y": 107.561,
+        "width": 9.65,
+        "height": 5.4,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "141",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              199.35,
+              104.45
+            ],
+            [
+              199.4,
+              109.85
+            ],
+            [
+              209.0,
+              109.85
+            ],
+            [
+              209.0,
+              104.45
+            ],
+            [
+              199.35,
+              104.45
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P119",
+        "plot_number": "27",
+        "area_drawing_units2": 54.54,
+        "marker_x": 98.404,
+        "marker_y": 107.138,
+        "width": 10.15,
+        "height": 5.4,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "27",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              102.15,
+              109.85
+            ],
+            [
+              102.1,
+              104.45
+            ],
+            [
+              92.0,
+              104.45
+            ],
+            [
+              92.05,
+              109.85
+            ],
+            [
+              102.15,
+              109.85
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P120",
+        "plot_number": "",
+        "area_drawing_units2": 54.81,
+        "marker_x": 105.685,
+        "marker_y": 107.138,
+        "width": 10.2,
+        "height": 5.4,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription only; conflicts with PDF-text-matched label \u2014 needs confirmation",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "30",
+        "label_review_required": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.3,
+              109.85
+            ],
+            [
+              112.25,
+              104.45
+            ],
+            [
+              102.1,
+              104.45
+            ],
+            [
+              102.15,
+              109.85
+            ],
+            [
+              112.3,
+              109.85
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P121",
+        "plot_number": "52",
+        "area_drawing_units2": 40.77,
+        "marker_x": 122.025,
+        "marker_y": 107.138,
+        "width": 7.6,
+        "height": 5.4,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "52",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              117.35,
+              104.45
+            ],
+            [
+              117.4,
+              109.85
+            ],
+            [
+              124.95,
+              109.85
+            ],
+            [
+              124.9,
+              104.45
+            ],
+            [
+              117.35,
+              104.45
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P122",
+        "plot_number": "55",
+        "area_drawing_units2": 45.63,
+        "marker_x": 129.307,
+        "marker_y": 107.138,
+        "width": 8.5,
+        "height": 5.4,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "55",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.9,
+              104.45
+            ],
+            [
+              124.95,
+              109.85
+            ],
+            [
+              133.4,
+              109.85
+            ],
+            [
+              133.35,
+              104.45
+            ],
+            [
+              124.9,
+              104.45
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P123",
+        "plot_number": "76",
+        "area_drawing_units2": 41.04,
+        "marker_x": 142.262,
+        "marker_y": 107.138,
+        "width": 7.65,
+        "height": 5.4,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "76",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.4,
+              104.45
+            ],
+            [
+              138.45,
+              109.85
+            ],
+            [
+              146.05,
+              109.85
+            ],
+            [
+              146.0,
+              104.45
+            ],
+            [
+              138.4,
+              104.45
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P124",
+        "plot_number": "79",
+        "area_drawing_units2": 40.905,
+        "marker_x": 149.542,
+        "marker_y": 107.138,
+        "width": 7.6,
+        "height": 5.4,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "79",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              146.0,
+              104.45
+            ],
+            [
+              146.05,
+              109.85
+            ],
+            [
+              153.6,
+              109.85
+            ],
+            [
+              153.6,
+              104.45
+            ],
+            [
+              146.0,
+              104.45
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P125",
+        "plot_number": "98",
+        "area_drawing_units2": 41.04,
+        "marker_x": 162.497,
+        "marker_y": 107.138,
+        "width": 7.65,
+        "height": 5.4,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "98",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              158.65,
+              104.45
+            ],
+            [
+              158.7,
+              109.85
+            ],
+            [
+              166.3,
+              109.85
+            ],
+            [
+              166.25,
+              104.45
+            ],
+            [
+              158.65,
+              104.45
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P126",
+        "plot_number": "101",
+        "area_drawing_units2": 40.905,
+        "marker_x": 169.779,
+        "marker_y": 107.138,
+        "width": 7.6,
+        "height": 5.4,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "101",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              166.25,
+              104.45
+            ],
+            [
+              166.3,
+              109.85
+            ],
+            [
+              173.85,
+              109.85
+            ],
+            [
+              173.85,
+              104.45
+            ],
+            [
+              166.25,
+              104.45
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P127",
+        "plot_number": "119",
+        "area_drawing_units2": 41.04,
+        "marker_x": 183.367,
+        "marker_y": 107.138,
+        "width": 7.6,
+        "height": 5.4,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "119",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              178.9,
+              104.45
+            ],
+            [
+              178.9,
+              109.85
+            ],
+            [
+              186.5,
+              109.85
+            ],
+            [
+              186.5,
+              104.45
+            ],
+            [
+              178.9,
+              104.45
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P128",
+        "plot_number": "124",
+        "area_drawing_units2": 42.12,
+        "marker_x": 190.31,
+        "marker_y": 107.138,
+        "width": 7.8,
+        "height": 5.4,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "124",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              186.5,
+              104.45
+            ],
+            [
+              186.5,
+              109.85
+            ],
+            [
+              194.3,
+              109.85
+            ],
+            [
+              194.3,
+              104.45
+            ],
+            [
+              186.5,
+              104.45
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P129",
+        "plot_number": "142",
+        "area_drawing_units2": 52.245,
+        "marker_x": 204.83,
+        "marker_y": 102.143,
+        "width": 9.7,
+        "height": 5.4,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "142",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              199.35,
+              99.05
+            ],
+            [
+              199.35,
+              104.45
+            ],
+            [
+              209.0,
+              104.45
+            ],
+            [
+              209.05,
+              99.05
+            ],
+            [
+              199.35,
+              99.05
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P130",
+        "plot_number": "01",
+        "area_drawing_units2": 37.26,
+        "marker_x": 82.953,
+        "marker_y": 102.016,
+        "width": 7.2,
+        "height": 5.4,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "01",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.95,
+              99.05
+            ],
+            [
+              80.35,
+              99.05
+            ],
+            [
+              79.8,
+              104.45
+            ],
+            [
+              87.0,
+              104.45
+            ],
+            [
+              86.95,
+              99.05
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P131",
+        "plot_number": "28",
+        "area_drawing_units2": 54.54,
+        "marker_x": 98.531,
+        "marker_y": 101.763,
+        "width": 10.1,
+        "height": 5.4,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "28",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              102.1,
+              99.05
+            ],
+            [
+              92.0,
+              99.05
+            ],
+            [
+              92.0,
+              104.45
+            ],
+            [
+              102.1,
+              104.45
+            ],
+            [
+              102.1,
+              99.05
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P132",
+        "plot_number": "29",
+        "area_drawing_units2": 54.81,
+        "marker_x": 105.77,
+        "marker_y": 101.763,
+        "width": 10.15,
+        "height": 5.4,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "29",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.25,
+              99.05
+            ],
+            [
+              102.1,
+              99.05
+            ],
+            [
+              102.1,
+              104.45
+            ],
+            [
+              112.25,
+              104.45
+            ],
+            [
+              112.25,
+              99.05
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P133",
+        "plot_number": "53",
+        "area_drawing_units2": 40.905,
+        "marker_x": 121.984,
+        "marker_y": 101.763,
+        "width": 7.6,
+        "height": 5.4,
+        "vertices": 5,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "53",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.9,
+              99.05
+            ],
+            [
+              119.0,
+              99.05
+            ],
+            [
+              117.3,
+              99.05
+            ],
+            [
+              117.35,
+              104.45
+            ],
+            [
+              124.9,
+              104.45
+            ],
+            [
+              124.9,
+              99.05
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P134",
+        "plot_number": "54",
+        "area_drawing_units2": 45.495,
+        "marker_x": 129.265,
+        "marker_y": 101.763,
+        "width": 8.45,
+        "height": 5.4,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "54",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              133.3,
+              99.05
+            ],
+            [
+              124.9,
+              99.05
+            ],
+            [
+              124.9,
+              104.45
+            ],
+            [
+              133.35,
+              104.45
+            ],
+            [
+              133.3,
+              99.05
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P135",
+        "plot_number": "77",
+        "area_drawing_units2": 41.161,
+        "marker_x": 142.219,
+        "marker_y": 101.763,
+        "width": 7.6,
+        "height": 5.65,
+        "vertices": 5,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "77",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              143.95,
+              99.05
+            ],
+            [
+              138.4,
+              99.05
+            ],
+            [
+              138.4,
+              104.45
+            ],
+            [
+              146.0,
+              104.45
+            ],
+            [
+              145.95,
+              98.8
+            ],
+            [
+              143.95,
+              99.05
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P136",
+        "plot_number": "120",
+        "area_drawing_units2": 41.04,
+        "marker_x": 183.325,
+        "marker_y": 101.763,
+        "width": 7.65,
+        "height": 5.4,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "120",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              178.85,
+              99.05
+            ],
+            [
+              178.9,
+              104.45
+            ],
+            [
+              186.5,
+              104.45
+            ],
+            [
+              186.45,
+              99.05
+            ],
+            [
+              178.85,
+              99.05
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P137",
+        "plot_number": "123",
+        "area_drawing_units2": 42.12,
+        "marker_x": 190.352,
+        "marker_y": 101.763,
+        "width": 7.85,
+        "height": 5.4,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "visual transcription from high-resolution PDF marker",
+        "plot_number_text_matched": false,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "123",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              186.45,
+              99.05
+            ],
+            [
+              186.5,
+              104.45
+            ],
+            [
+              194.3,
+              104.45
+            ],
+            [
+              194.25,
+              99.05
+            ],
+            [
+              186.45,
+              99.05
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P138",
+        "plot_number": "78",
+        "area_drawing_units2": 46.956,
+        "marker_x": 149.035,
+        "marker_y": 101.424,
+        "width": 7.65,
+        "height": 6.7,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "78",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              145.95,
+              98.8
+            ],
+            [
+              146.0,
+              104.45
+            ],
+            [
+              153.6,
+              104.45
+            ],
+            [
+              153.55,
+              97.75
+            ],
+            [
+              145.95,
+              98.8
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P139",
+        "plot_number": "100",
+        "area_drawing_units2": 68.616,
+        "marker_x": 169.44,
+        "marker_y": 100.238,
+        "width": 7.65,
+        "height": 9.55,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "100",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              166.2,
+              95.95
+            ],
+            [
+              166.25,
+              104.45
+            ],
+            [
+              173.85,
+              104.45
+            ],
+            [
+              173.8,
+              94.9
+            ],
+            [
+              166.2,
+              95.95
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P140",
+        "plot_number": "99",
+        "area_drawing_units2": 60.447,
+        "marker_x": 162.962,
+        "marker_y": 100.196,
+        "width": 7.65,
+        "height": 8.5,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "99",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              158.6,
+              97.05
+            ],
+            [
+              158.65,
+              104.45
+            ],
+            [
+              166.25,
+              104.45
+            ],
+            [
+              166.2,
+              95.95
+            ],
+            [
+              158.6,
+              97.05
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P141",
+        "plot_number": "143",
+        "area_drawing_units2": 65.391,
+        "marker_x": 204.745,
+        "marker_y": 96.767,
+        "width": 9.75,
+        "height": 6.85,
+        "vertices": 5,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "143",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              207.05,
+              92.4
+            ],
+            [
+              199.3,
+              92.2
+            ],
+            [
+              199.35,
+              99.05
+            ],
+            [
+              209.05,
+              99.05
+            ],
+            [
+              209.05,
+              92.45
+            ],
+            [
+              207.05,
+              92.4
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P142",
+        "plot_number": "121",
+        "area_drawing_units2": 48.605,
+        "marker_x": 182.689,
+        "marker_y": 96.301,
+        "width": 7.65,
+        "height": 6.7,
+        "vertices": 7,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "121",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              178.8,
+              94.2
+            ],
+            [
+              178.85,
+              99.05
+            ],
+            [
+              186.45,
+              99.05
+            ],
+            [
+              186.4,
+              92.35
+            ],
+            [
+              180.25,
+              92.55
+            ],
+            [
+              179.25,
+              94.0
+            ],
+            [
+              179.25,
+              94.15
+            ],
+            [
+              178.8,
+              94.2
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P143",
+        "plot_number": "30B",
+        "area_drawing_units2": 63.125,
+        "marker_x": 96.922,
+        "marker_y": 96.259,
+        "width": 10.15,
+        "height": 6.25,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "30B",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.0,
+              99.05
+            ],
+            [
+              102.1,
+              99.05
+            ],
+            [
+              102.05,
+              92.8
+            ],
+            [
+              91.95,
+              92.8
+            ],
+            [
+              92.0,
+              99.05
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P144",
+        "plot_number": "30A",
+        "area_drawing_units2": 63.438,
+        "marker_x": 107.04,
+        "marker_y": 96.259,
+        "width": 10.2,
+        "height": 6.25,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "30A",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              102.1,
+              99.05
+            ],
+            [
+              112.25,
+              99.05
+            ],
+            [
+              112.2,
+              92.8
+            ],
+            [
+              102.05,
+              92.8
+            ],
+            [
+              102.1,
+              99.05
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P145",
+        "plot_number": "31A",
+        "area_drawing_units2": 36.875,
+        "marker_x": 122.238,
+        "marker_y": 96.259,
+        "width": 5.95,
+        "height": 6.25,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "31A",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              119.0,
+              99.05
+            ],
+            [
+              124.9,
+              99.05
+            ],
+            [
+              124.85,
+              92.8
+            ],
+            [
+              118.95,
+              92.8
+            ],
+            [
+              119.0,
+              99.05
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P146",
+        "plot_number": "31B",
+        "area_drawing_units2": 52.5,
+        "marker_x": 128.122,
+        "marker_y": 96.259,
+        "width": 8.45,
+        "height": 6.25,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "31B",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.9,
+              99.05
+            ],
+            [
+              133.3,
+              99.05
+            ],
+            [
+              133.25,
+              92.8
+            ],
+            [
+              124.85,
+              92.8
+            ],
+            [
+              124.9,
+              99.05
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P147",
+        "plot_number": "31E",
+        "area_drawing_units2": 34.375,
+        "marker_x": 141.118,
+        "marker_y": 96.259,
+        "width": 5.6,
+        "height": 6.25,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "31E",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.4,
+              99.05
+            ],
+            [
+              143.95,
+              99.05
+            ],
+            [
+              143.8,
+              92.8
+            ],
+            [
+              138.35,
+              92.8
+            ],
+            [
+              138.4,
+              99.05
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P148",
+        "plot_number": "30E",
+        "area_drawing_units2": 38.75,
+        "marker_x": 83.502,
+        "marker_y": 96.132,
+        "width": 6.6,
+        "height": 6.25,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "30E",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.35,
+              99.05
+            ],
+            [
+              86.95,
+              99.05
+            ],
+            [
+              86.9,
+              92.8
+            ],
+            [
+              81.1,
+              92.8
+            ],
+            [
+              80.35,
+              99.05
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P149",
+        "plot_number": "122",
+        "area_drawing_units2": 53.045,
+        "marker_x": 189.336,
+        "marker_y": 95.624,
+        "width": 7.85,
+        "height": 6.9,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "122",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              186.4,
+              92.35
+            ],
+            [
+              186.45,
+              99.05
+            ],
+            [
+              194.25,
+              99.05
+            ],
+            [
+              194.2,
+              92.15
+            ],
+            [
+              186.4,
+              92.35
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P150",
+        "plot_number": "30C",
+        "area_drawing_units2": 62.874,
+        "marker_x": 96.753,
+        "marker_y": 90.035,
+        "width": 10.15,
+        "height": 6.25,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "30C",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              102.05,
+              92.8
+            ],
+            [
+              102.0,
+              86.55
+            ],
+            [
+              91.9,
+              86.6
+            ],
+            [
+              91.95,
+              92.8
+            ],
+            [
+              102.05,
+              92.8
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P151",
+        "plot_number": "31",
+        "area_drawing_units2": 37.76,
+        "marker_x": 122.195,
+        "marker_y": 90.035,
+        "width": 5.95,
+        "height": 6.4,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "31",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              118.9,
+              86.4
+            ],
+            [
+              118.95,
+              92.8
+            ],
+            [
+              124.85,
+              92.8
+            ],
+            [
+              124.8,
+              86.4
+            ],
+            [
+              118.9,
+              86.4
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P152",
+        "plot_number": "30",
+        "area_drawing_units2": 63.948,
+        "marker_x": 106.998,
+        "marker_y": 89.993,
+        "width": 10.2,
+        "height": 6.35,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "30",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.2,
+              92.8
+            ],
+            [
+              112.15,
+              86.45
+            ],
+            [
+              102.0,
+              86.55
+            ],
+            [
+              102.05,
+              92.8
+            ],
+            [
+              112.2,
+              92.8
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P153",
+        "plot_number": "30D",
+        "area_drawing_units2": 33.364,
+        "marker_x": 84.011,
+        "marker_y": 89.951,
+        "width": 5.8,
+        "height": 6.15,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "30D",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.8,
+              86.65
+            ],
+            [
+              81.1,
+              92.8
+            ],
+            [
+              86.9,
+              92.8
+            ],
+            [
+              86.85,
+              86.65
+            ],
+            [
+              81.8,
+              86.65
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P154",
+        "plot_number": "31D",
+        "area_drawing_units2": 35.262,
+        "marker_x": 141.076,
+        "marker_y": 89.697,
+        "width": 5.5,
+        "height": 6.5,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "31D",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              143.7,
+              86.3
+            ],
+            [
+              138.3,
+              86.3
+            ],
+            [
+              138.35,
+              92.8
+            ],
+            [
+              143.8,
+              92.8
+            ],
+            [
+              143.7,
+              86.3
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate_id": "P155",
+        "plot_number": "31C",
+        "area_drawing_units2": 53.971,
+        "marker_x": 128.545,
+        "marker_y": 89.655,
+        "width": 8.45,
+        "height": 6.45,
+        "vertices": 4,
+        "marker_count": 1,
+        "geometry_valid": true,
+        "review_required": false,
+        "official_plot_number_verified": false,
+        "plot_number_source": "selectable PDF text + spatial match",
+        "plot_number_text_matched": true,
+        "duplicate_plot_number_in_source": false,
+        "requires_human_boundary_review": true,
+        "source_label_transcription": "31C",
+        "label_review_required": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              133.2,
+              86.35
+            ],
+            [
+              124.8,
+              86.4
+            ],
+            [
+              124.85,
+              92.8
+            ],
+            [
+              133.25,
+              92.8
+            ],
+            [
+              133.2,
+              86.35
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

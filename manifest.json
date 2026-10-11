@@ -1,0 +1,19 @@
+{
+  "map_file": "chandamama_phase2_interactive_v5.html",
+  "plot_candidate_count": 155,
+  "assigned_unique_plot_numbers": 153,
+  "label_conflicts_for_review": [
+    "P108",
+    "P120"
+  ],
+  "source_transcriptions_preserved": {
+    "P108": "31",
+    "P120": "30"
+  },
+  "canonical_pdf_text_matches": {
+    "P151": "31",
+    "P152": "30"
+  },
+  "geometry_status": "Candidate polygons; visual boundary review still required.",
+  "shared_staff_database": false
+}
